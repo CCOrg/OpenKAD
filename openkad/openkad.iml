@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="com.google.guice:com.springsource.com.google.inject:2.0.0" level="project" />
+    <orderEntry type="library" name="com.googlecode.lambdaj:lambdaj:2.3.3" level="project" />
+    <orderEntry type="library" name="commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="com.google.code.gson:gson:2.3.1" level="project" />
+    <orderEntry type="library" name="org.mockito:mockito-all:1.10.19" level="project" />
+    <orderEntry type="library" name="junit:junit:4.12" level="project" />
+  </component>
+</module>
